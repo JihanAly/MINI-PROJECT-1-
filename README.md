@@ -1,1 +1,8 @@
 # MINI-PROJECT-1-
+NAMA : JIHAN ALYA NAFLAH
+NIM  : 2409116082
+KELAS: SISTEM INFORMASI - C
+
+**FLOWCHART**
+![MINI PROJECT 1](https://github.com/user-attachments/assets/0e93a9fb-7b52-432f-8dc7-821b096c5144)
+
